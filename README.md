@@ -20,7 +20,9 @@ python main.py mine_reactorCooler_5d mine_netRC5D ../log/ro_test ../data/mine_re
 
 ## Reference
 Some of the code is based on the open source code of works Deep-SAD-PyTorch[1] and RO-DNN[2].
+
 [1]Ruff, Lukas, et al. "Deep Semi-Supervised Anomaly Detection." International Conference on Learning Representations. 2019.
+
 [2]Goerigk, M., and J. Kurtz. "Data-Driven Robust Optimization using Unsupervised Deep Learning." Computers & Operations Research 151.106087 (2023).
 
 ## License
